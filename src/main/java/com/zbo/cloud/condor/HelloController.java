@@ -1,4 +1,4 @@
-package com.lotus.ad4.cloud.condor;
+package com.zbo.cloud.condor;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

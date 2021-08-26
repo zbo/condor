@@ -1,4 +1,4 @@
-package com.lotus.ad4.cloud.condor;
+package com.zbo.cloud.condor;
 
 import junit.framework.TestCase;
 import org.junit.jupiter.api.Test;
@@ -16,6 +16,7 @@ class CondorApplicationTests {
 		HelloController controller = new HelloController();
 		String result = controller.hello("bob");
 		TestCase.assertEquals(result,"Hello bob!");
+
 	}
 
 }
